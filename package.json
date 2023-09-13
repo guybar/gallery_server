@@ -16,7 +16,7 @@
     "express-fileupload": "^1.1.8",
     "formidable": "^3.2.3",
     "jquery": "3.4",
-    "lodash": "^4.17.0",
+    "lodash": "^4.17.16",
     "node-forge": "^0.7.2",
     "parse-url": "^6.0.5",
     "undici": "^5.8.0",
